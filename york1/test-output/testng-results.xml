@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12001" started-at="2019-10-16T11:15:42Z" finished-at="2019-10-16T11:15:54Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="12001" started-at="2019-10-16T11:15:42Z" finished-at="2019-10-16T11:15:54Z">
+      <class name="Testcases.Gcrit">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Testcases.Gcrit@5c7fa833]" name="setup" is-config="true" duration-ms="9642" started-at="2019-10-16T16:45:42Z" finished-at="2019-10-16T16:45:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="launchappliction()[pri:0, instance:Testcases.Gcrit@5c7fa833]" name="launchappliction" duration-ms="1660" started-at="2019-10-16T16:45:52Z" finished-at="2019-10-16T16:45:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchappliction -->
+        <test-method status="PASS" signature="shutdown()[pri:0, instance:Testcases.Gcrit@5c7fa833]" name="shutdown" is-config="true" duration-ms="670" started-at="2019-10-16T16:45:54Z" finished-at="2019-10-16T16:45:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutdown -->
+      </class> <!-- Testcases.Gcrit -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
